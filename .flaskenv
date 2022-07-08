@@ -1,0 +1,6 @@
+
+FLASK_APP=githubnavigator.application
+FLASK_ENV=development
+
+GITHUB_TOKEN=cbde697a6e01424856fde2b7f94a88d1b501320e
+

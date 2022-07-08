@@ -1,0 +1,14 @@
+dependency-injector
+
+flask
+bootstrap-flask
+
+pytest-flask
+pytest-cov
+
+python-dotenv
+
+pygithub
+pyyaml
+
+
